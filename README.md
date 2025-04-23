@@ -1,65 +1,91 @@
-<h1 align="center">Hi there 👋, I'm Harshad Deshmukh</h1>
-<p align="center">🚀 Software Developer | 💡 Tech Enthusiast | 📱 App Developer</p>
+<div align="center">
+  <img src="https://via.placeholder.com/150" alt="Harshad Deshmukh" width="150" style="border-radius:50%"/>
+  <h1>👋 Hi, I'm Harshad Deshmukh!</h1>
+  <p>
+    Machine Learning Enthusiast | Building AI-Powered Solutions | Passionate about Real-Time Systems & Accessibility
+  </p>
+
+  <p>
+    <a href="https://github.com/harshaadeshmukh">
+      <img src="https://img.shields.io/github/followers/harshaadeshmukh?style=social" alt="GitHub Followers"/>
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/your-twitter">
+      <img src="https://img.shields.io/twitter/follow/your-twitter?style=social" alt="Twitter"/>
+    </a>
+  </p>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=harshaadeshmukh&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaadeshmukh&layout=compact&theme=radical" alt="Top Languages"/>
+  </p>
+</div>
 
 ---
 
-### 🌐 About Me
+## 🌟 About Me
 
-- 💼 Aspiring Software Engineer with a strong foundation in **C++, Java**, and **Data Structures & Algorithms (DSA)**
-- 💬 Passionate about **App Development**, Web Development, and exploring the world of **AI/ML**
-- 🔨 Currently enhancing my communication skills and contributing to open-source and personal projects
-- 🎓 Final year student with hands-on experience building real-time applications and backend systems
+I'm a dedicated developer with a passion for **machine learning**, **computer vision**, and **real-time systems**. My projects focus on creating impactful solutions, from enabling communication for the deaf and mute through sign language recognition to generating images from text using GANs. I love tackling challenging problems and optimizing AI models for edge devices like the Raspberry Pi.
 
----
-
-### 🔧 Technologies & Tools
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- 🔭 Currently working on innovative ML projects and exploring generative AI.
+- 🌱 Learning about advanced deep learning architectures and cloud deployment.
+- 💼 Open to opportunities in machine learning, software engineering, and AI research.
+- 📫 Reach me at: [harshad.deshmukh@example.com](mailto:harshad.deshmukh@example.com)
+- 😄 Fun fact: I’m a coffee enthusiast who codes best with a fresh brew! ☕
 
 ---
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
-#### 📲 [Chatto: Talk](https://github.com/harshaadeshmukh/Chatto)
-A real-time one-on-one chat application using **Firebase Cloudstore** and **Phone Authentication**.  
-🧑‍💼 Features: Username & Profile Pic updates, mobile-friendly UI.
+### [Shabdancha Shunya](https://github.com/harshaadeshmukh/Shabdancha-Shunya)
+Real-time Marathi Sign Language recognition using hand gesture detection.
+- Achieved **96% classification accuracy** with a custom dataset.
+- Optimized **EfficientNetB0** model with TensorFlow Lite for Raspberry Pi.
+- Tech Stack: Python, TensorFlow, OpenCV, NumPy, Raspberry Pi
+- <img src="https://img.shields.io/badge/Status-Completed-green" alt="Status"/>
 
-#### 📘 [Visiting Faculty Billing Application](https://github.com/harshaadeshmukh)
-A role-based web app for managing faculty billing (HOD and Visitors) developed as part of final-year diploma project.
+### [EfficientCLIP-GAN](https://github.com/harshaadeshmukh/EfficientCLIP-GAN)
+Efficient text-to-image generation using GAN and CLIP.
+- Developed a lightweight model for high-quality image synthesis.
+- Reduced inference time by **30%** through model optimization.
+- Tech Stack: Python, PyTorch, CLIP, NumPy, Matplotlib
+- <img src="https://img.shields.io/badge/Status-Completed-green" alt="Status"/>
 
-#### 🌾 [Farmer Reminders System](https://github.com/harshaadeshmukh)
-Built using **PHP & MySQL**, this app sends timely notifications to farmers for crop care.
+### [Chat App 2.0](https://github.com/harshaadeshmukh/chat-app-2.0)
+Real-time messaging platform with scalable architecture.
+- Supported **1,000 concurrent users** with **99% message delivery reliability**.
+- Built a responsive UI with real-time updates.
+- Tech Stack: Node.js, Express.js, Socket.IO, React, MongoDB
+- <img src="https://img.shields.io/badge/Status-Completed-green" alt="Status"/>
 
----
-
-### 🏅 Certifications
-
-- 🧠 [NVIDIA: Fundamentals of Deep Learning](https://courses.nvidia.com)
-- 🔗 [Postman: API Fundamentals](https://www.postman.com)
-- 🛢️ SQL Certification *(link if available)*
-
----
-
-### 📫 Let's Connect
-
-- 🌐 Portfolio: [harshaadeshmukh.github.io/Portfolio](https://harshaadeshmukh.github.io/Portfolio/)
-- 💼 LinkedIn: [linkedin.com/in/harshad-deshmukh-955307299](https://www.linkedin.com/in/harshad-deshmukh-955307299)
-- 📷 Instagram: [@harshad.deshmukh_](https://www.instagram.com/harshad.deshmukh_)
+> Check out all my projects in my [Repositories](https://github.com/harshaadeshmukh?tab=repositories)!
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshaadeshmukh&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaadeshmukh&layout=compact&theme=tokyonight" height="150"/>
-</p>
+- **Languages**: Python, JavaScript, C++
+- **Frameworks & Libraries**: TensorFlow, PyTorch, OpenCV, NumPy, React, Node.js
+- **Tools**: Git, Docker, Raspberry Pi, AWS (basic)
+- **Domains**: Machine Learning, Computer Vision, Generative AI, Real-Time Systems
+
+---
+
+## 📬 Get in Touch
+
+- **Email**: [harshad.deshmukh@example.com](mailto:harshad.deshmukh@example.com)
+- **LinkedIn**: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
+- **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
+
+---
+
+## 🙌 Support
+
+If you find my work inspiring, give my repositories a ⭐ or connect with me to collaborate on exciting projects!
+
+<div align="center">
+  <p>Thanks for visiting my GitHub! Let’s build something amazing together! 🚀</p>
+</div>
