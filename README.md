@@ -1,24 +1,22 @@
 # 👋 Hi, I'm Harshad Deshmukh
 
-🎯 **Android Developer | Passionate Software Engineer | Lifelong Learner**
+💻 **Passionate Software Developer | Web & Mobile Developer | 🎯 Problem Solver | 💡 VIT-2026, GPAN-2023**
 
 ---
 
-## 📌 About Me
+## 👀 About Me
 
-I'm a highly motivated Android developer based in Pune, India 🇮🇳, with a strong passion for building meaningful digital experiences. Whether it’s designing intuitive user interfaces or solving complex backend challenges, I love turning ideas into fully functional applications that add real value.
-
-My mission is simple — to **learn continuously, build passionately, and inspire through code**.
+I’m interested in **software development**, **web development**, **cyber security**, and **ethical hacking**. 🌱 I’m currently pursuing **B.Tech in Computer Engineering** from **VIT, Pune**, and have completed a **diploma in Computer Engineering** from **Government Polytechnic, Pune**.
 
 ---
 
 ## 🏆 Career Highlights
 
-- 🛠 Developed scalable Android applications with Firebase, Firestore, and RESTful APIs.
-- 🧠 Creator of **"Shabdancha Shunya"**, a Marathi Sign Language recognition system using EfficientNetB0, TensorFlow, and OpenCV deployed on Raspberry Pi.
-- 📡 Implemented real-time chat apps using Firebase Cloud Messaging and Firestore.
-- 📱 Built clean and responsive UIs with XML and Jetpack components.
-- 📊 Contributor to AI research involving image generation and GAN models.
+- 📱 Developed and deployed Android apps using Firebase and integrated real-time features.
+- 💬 Created real-time chat, utility, and productivity apps with Firebase integration.
+- 🧠 Built **"Shabdancha Shunya"**: A Marathi Sign Language recognition system with TensorFlow + OpenCV.
+- 💻 Strong foundation in **C++ and Data Structures & Algorithms** with 300+ problems solved on competitive platforms.
+- 📊 Practical knowledge of **SQL** for data querying, relational operations, and database design.
 
 ---
 
@@ -27,6 +25,8 @@ My mission is simple — to **learn continuously, build passionately, and inspir
 ### Languages & Platforms
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Tools & Technologies
@@ -40,27 +40,11 @@ My mission is simple — to **learn continuously, build passionately, and inspir
 
 ## 📂 Featured Projects
 
-🔍 **Explore my work** — each project is a story of passion, perseverance, and purpose.
-
 - 🧠 [**Shabancha-shunya**](https://github.com/harshaadeshmukh/Shabancha-shunya): Real-time Marathi Sign Language recognition system using TensorFlow + Raspberry Pi.
-- 💬 [**Chat App 2.0**](https://github.com/harshaadeshmukh/chat-app-2.0): A full-featured Android chat application with Firebase support.
-- 🌦️ [**WeatherWay**](https://github.com/harshaadeshmukh/WeatherWay): Weather updates app using public APIs.
-- 🖼️ [**EfficientCLIP-GAN**](https://github.com/harshaadeshmukh/EfficientCLIP-GAN): Research project on AI-based text-to-image generation using GANs.
-- 🧑‍💻 [**WebDev Compiler**](https://github.com/harshaadeshmukh/WebDev-Compiler): A utility for compiling frontend code for learning and testing.
-
----
-
-## 💡 What I Believe
-
-> “Software is a tool for change — every line of code I write, I strive to make it count.”
-
-I believe in clean code, strong documentation, and building products that people love to use. I approach development not just as a skill, but as a **craft**.
-
----
-
-## 📈 GitHub Stats
-
-![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaadeshmukh&show_icons=true&theme=radical)
+- 💬 [**Chat App 2.0**](https://github.com/harshaadeshmukh/chat-app-2.0): Android chat app with real-time Firebase messaging.
+- 🌦️ [**WeatherWay**](https://github.com/harshaadeshmukh/WeatherWay): A sleek weather forecast app.
+- 🖼️ [**EfficientCLIP-GAN**](https://github.com/harshaadeshmukh/EfficientCLIP-GAN): Text-to-image generation using GANs and CLIP.
+- 🔧 [**WebDev Compiler**](https://github.com/harshaadeshmukh/WebDev-Compiler): Frontend code compilation utility for developers.
 
 ---
 
@@ -73,4 +57,4 @@ I believe in clean code, strong documentation, and building products that people
 
 ---
 
-_Thanks for visiting my GitHub! If you like my work, feel free to ⭐️ my repositories or reach out for collaboration._
+_Thanks for visiting! If you find my work interesting, don’t forget to ⭐️ some repos or drop a message to collaborate._
