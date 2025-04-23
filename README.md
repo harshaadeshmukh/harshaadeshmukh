@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Harshad Deshmukh
 
-💻 **Passionate Software Developer | Web & Mobile Developer | 🎯 Problem Solver | 💡 VIT-2026, GPA-2023**
+💻 **Passionate Software Developer | Web & Android Developer | 🎯 Problem Solver | 💡 VIT-2026, GPA-2023**
 
 ---
 
 ## 👀 About Me
-
-I’m interested in **software development**, **web development**, **cyber security**, and **ethical hacking**. 🌱 I’m currently pursuing **B.Tech in Computer Engineering** from **VIT, Pune**, and have completed a **diploma in Computer Engineering** from **Government Polytechnic, Aurangabad**.
+I’m passionate about **software** and **app development**, **cybersecurity**, and **ethical hacking**, currently pursuing a **B.Tech in Computer Engineering** at **VIT, Pune**, after completing a **diploma in Computer Engineering** from **Government Polytechnic, Aurangabad**.
 
 ---
 
