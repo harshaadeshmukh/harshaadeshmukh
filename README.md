@@ -50,7 +50,7 @@ I’m passionate about **software** and **app development**, **cybersecurity**, 
 - 🌍 **Portfolio**: [harshaadeshmukh.github.io/Portfolio](https://harshaadeshmukh.github.io/Portfolio/)
 - 💼 **LinkedIn**: [linkedin.com/in/harshad-deshmukh-955307299](https://www.linkedin.com/in/harshad-deshmukh-955307299/)
 - 📷 **Instagram**: [@harshad.deshmukh_](https://www.instagram.com/harshad.deshmukh_/)
-- 📧 **Email**: [harshaadeshmukh@gmail.com](mailto:harshad.deshmukh82004@gmail.com)
+- 📧 **Email**: [harshad.deshmukh82004@gmail.com](mailto:harshad.deshmukh82004@gmail.com)
 
 ---
 
