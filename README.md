@@ -37,7 +37,7 @@ I’m passionate about **software** and **app development**, **cybersecurity**, 
 
 ## 📂 Featured Projects
 
-- 🧠 [**Shabancha-shunya**](https://github.com/harshaadeshmukh/Shabancha-shunya): Real-time Marathi Sign Language recognition system using TensorFlow Lite, OpenCV, and deployed on Raspberry Pi.
+- 🧠 [**Shabdancha-shunya**](https://github.com/harshaadeshmukh/Shabancha-shunya): Real-time Marathi Sign Language recognition system using TensorFlow Lite, OpenCV, and deployed on Raspberry Pi.
 - 💬 [**Chat App 2.0**](https://github.com/harshaadeshmukh/chat-app-2.0): Android chat app with real-time Firebase messaging.
 - 🖼️ [**EfficientCLIP-GAN**](https://github.com/harshaadeshmukh/EfficientCLIP-GAN): Text-to-image generation using GANs and CLIP.
 - 🔧 [**WebDev Compiler**](https://github.com/harshaadeshmukh/WebDev-Compiler): Frontend code compilation utility for developers.
