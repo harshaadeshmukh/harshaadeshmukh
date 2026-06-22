@@ -1,6 +1,6 @@
 # Hi, I'm Harshad Deshmukh 👋
 
-### 💻 Passionate Software Developer · ⚙️ Backend Developer · 📱 App Developer · 🤖 AI/ML Builder · 🎯 Problem Solver
+### 💻 Software Developer · ⚙️ Backend Developer · 💼 Freelancer · 📱 App Developer · 🤖 AI/ML Builder · 🎯 Problem Solver
 🎓 **B.Tech Computer Engineering @ VIT Pune '26 | Diploma @ Govt. Polytechnic Aurangabad**
 
 ---
